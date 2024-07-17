@@ -15,3 +15,6 @@ A partir daí, o usuário informará a quantidade de glicose no sangue obtida no
 
 
 https://github.com/jeovane2001/Calculadora-insulina/issues/1#issue-2412393870
+
+
+![Captura de tela 2024-07-16 222411](https://github.com/user-attachments/assets/059ac841-61b4-4684-aca9-1be55e9a6b5d)
