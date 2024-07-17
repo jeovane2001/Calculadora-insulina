@@ -13,8 +13,9 @@ COMO INICIAR O PROJETO: criar um objeto que seja um paciente dai através dos m�
 Ou o usuário deve começar criando um objeto paciente e assim que atribuí lós os caracteres, ele calculará ali sulina necessária para esse paciente através do método getCalcularsulina.
 A partir daí, o usuário informará a quantidade de glicose no sangue obtida no hemograma e o sistema voltará para ele a quantidade de insulina necessária para o organismo desse paciente.
 
+#Diagrama de classes
 ![Captura de tela 2024-07-16 222411](https://github.com/user-attachments/assets/b82d83b2-672f-45f1-afae-9243c2b5e312)
 
 
-
-![Captura de tela 2024-07-16 222411](https://github.com/user-attachments/assets/059ac841-61b4-4684-aca9-1be55e9a6b5d)
+#Teste 01
+![Captura de tela 2024-07-16 224505](https://github.com/user-attachments/assets/15f0d075-c0d9-4464-962b-f42a6c192bfd)
