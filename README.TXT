@@ -12,5 +12,6 @@ AUTORES:jeovane2001
 INSTRUÇÕES PARA O USUÁRIO:
 Ou o usuário deve começar criando um objeto paciente e assim que atribuí lós os caracteres, ele calculará ali sulina necessária para esse paciente através do método getCalcularsulina.
 A partir daí, o usuário informará a quantidade de glicose no sangue obtida no hemograma e o sistema voltará para ele a quantidade de insulina necessária para o organismo desse paciente.
+
+
 https://github.com/jeovane2001/Calculadora-insulina/issues/1#issue-2412393870
-https://github.com/jeovane2001/Calculadora-insulina/issues/2#issue-2412425581
