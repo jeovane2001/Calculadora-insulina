@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n/**\r\n\ classe\ que\ faz\ o\ uso\ da\ a\u00E7\u00E3o\r\n\ \r\n\ @jeovane2001\r\n\ 15/07/2024\r\n
+comment1.params=
+comment1.target=void\ Calcular_Insulina()
+comment1.text=\r\n/**\r\n\ metodo\ principal\r\n\ \r\n\ @para\ analise\ da\ insulina\r\n\ 15/07/2024\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

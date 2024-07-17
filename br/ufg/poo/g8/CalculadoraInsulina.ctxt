@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculadoraInsulina
+comment0.text=\r\n/**\r\n\ analise\ de\ isulina\r\n\ \r\n\ @jeovane2001\r\n\ 15/07/2024\r\n
+comment1.params=glicose
+comment1.target=void\ getCalculararInsulina(double)
+comment1.text=\r\n/**\r\n\ metodo\ pricipal\r\n\ \r\n\ @armazena\ e\ organiza\ os\ valores\ de\ insulina\ e\ glicose\r\n\ 15/07/2024\r\n
+numComments=2

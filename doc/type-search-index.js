@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"br.ufg.poo.g8","l":"CalculadoraInsulina"},{"p":"br.ufg.poo.g8","l":"main"}];updateSearchResults();
